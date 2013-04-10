@@ -1479,3 +1479,7 @@ td.matrix-cell {
 #main-panel > pre a {
     color: white;
 }
+
+#buildHistory tr:last-child {
+    display: none;
+}
