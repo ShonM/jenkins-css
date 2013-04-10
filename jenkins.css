@@ -1439,6 +1439,9 @@ table.progress-bar.red td.progress-bar-done {
 
 .textarea-preview-container {
     text-align: left
+    position: absolute;
+    right: 0;
+    top: 0;
 }
 
 .textarea-preview {
