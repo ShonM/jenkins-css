@@ -313,6 +313,7 @@ dt {
 #main-table {
     padding: 0;
     border-collapse: collapse;
+    background: none !important;
 }
 
 #top-panel {
