@@ -710,6 +710,7 @@ label.attach-previous {
 .bottom-sticker-inner {
     background: white;
     padding: 1em;
+    border-top: 1px solid #f0f0f0;
 }
 
 .bottom-sticker-edge {
