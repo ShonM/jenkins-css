@@ -1469,13 +1469,13 @@ td.matrix-cell {
     text-align: center;
 }
 
-#main-panel pre {
+#main-panel > pre {
     color: #fff;
     background-color: #333;
     border-radius: 3px;
     padding: 10px;
 }
 
-#main-panel pre a {
+#main-panel > pre a {
     color: white;
 }
