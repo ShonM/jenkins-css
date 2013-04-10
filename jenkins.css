@@ -476,6 +476,7 @@ pre.console {
 
 .setting-main {
     width: 100%; /* try to make this column as big as possible. */
+    position: relative;
 }
 
 .setting-help {
@@ -1262,6 +1263,16 @@ div.textarea-handle {
     border: 1px solid #BABDB6;
     border-top: none;
     cursor: s-resize;
+}
+
+div.textarea-handle {
+    position: absolute;
+    left: 1px;
+    right: -13px;
+    bottom: 1px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    height: 8px;
 }
 
 textarea.rich-editor {
