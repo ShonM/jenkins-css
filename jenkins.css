@@ -1488,3 +1488,7 @@ td.matrix-cell {
 #buildHistory tr:last-child {
     display: none;
 }
+
+.setting-main {
+    width: auto !important;
+}
